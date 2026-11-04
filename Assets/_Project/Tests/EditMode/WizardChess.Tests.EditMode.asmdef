@@ -5,7 +5,8 @@
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
         "WizardChess.Chess",
-        "WizardChess.Core"
+        "WizardChess.Core",
+        "UnityChessLib"
     ],
     "includePlatforms": [
         "Editor"

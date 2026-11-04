@@ -30,5 +30,5 @@ Meta Quest 2 VR chess game (Unity 6000.3.23f1, URP, OpenXR, XR Interaction Toolk
 - Namespaces `WizardChess.<Module>`, PascalCase types/methods, `_camelCase` private fields, comments in English.
 - Asset prefixes: `SM_` mesh, `M_` material, `T_` texture, `PF_` prefab, `SO_` ScriptableObject, `ANIM_`/`AC_`, `SH_`/`VFX_`, `SFX_`/`MUS_`/`VO_`.
 - Squares: `e4` in data/logs, index `rank * 8 + file` (`0 = a1`), board origin at a1 centre, +X = file, +Z = rank.
-- Branches `feature/<module>-<topic>`, PR to `main` with one review. Commits `<type>(<module>): <summary>`.
+- Branches `feature/<module>-<topic>`, PR to `main` with one review. Commits `<type>: <summary>` (feat, fix, refactor, art, chore, test), summary written in Korean. e.g. `feat: 블링크 시점 전환 추가`.
 - Never commit Wit.ai tokens to a public repository.

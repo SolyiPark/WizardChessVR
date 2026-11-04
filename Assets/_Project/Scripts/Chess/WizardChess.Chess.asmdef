@@ -1,7 +1,9 @@
 {
     "name": "WizardChess.Chess",
     "rootNamespace": "WizardChess.Chess",
-    "references": [],
+    "references": [
+        "UnityChessLib"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
