@@ -1,0 +1,17 @@
+{
+    "name": "WizardChess.AI",
+    "rootNamespace": "WizardChess.AI",
+    "references": [
+        "WizardChess.Core",
+        "WizardChess.Chess"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

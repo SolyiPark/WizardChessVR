@@ -1,0 +1,19 @@
+{
+    "name": "WizardChess.Voice",
+    "rootNamespace": "WizardChess.Voice",
+    "references": [
+        "WizardChess.Core",
+        "WizardChess.Gameplay",
+        "VoiceSDK.Runtime",
+        "Meta.WitAi"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
